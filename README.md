@@ -12,6 +12,8 @@ To run this project, you will need to run the .ipynb on kaggle environment or mo
 We have also provided the dataset and the dataset.yaml containing the 4 classes. 
 
 This is where you can find the code to run the original YOLOv5 : [YOLOv5 Official Repo](https://github.com/ultralytics/yolov5)
+This is the youtube video that was super helpful when figuring out how to run the code on google colab : https://www.youtube.com/watch?v=80Q3HIBy7Qg
+The environment she uses is juypter notebook but you can easily modify it to run on colab. 
 
 
 Below are some comparisons between the models 
