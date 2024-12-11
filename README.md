@@ -8,7 +8,7 @@ This is the link to access the dataset: https://www.kaggle.com/datasets/valentyn
 
 This is the link to GTSRB: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
-To run this project, you will need to run the .ipynb on kaggle environment or modify it to run on other platforms. 
+To run this project, you will need to run the .ipynb that we provided on kaggle environment or modify it to run on other platforms. 
 We have also provided the dataset and the dataset.yaml containing the 4 classes. 
 
 This is where you can find the code to run the original YOLOv5 : [YOLOv5 Official Repo](https://github.com/ultralytics/yolov5)
