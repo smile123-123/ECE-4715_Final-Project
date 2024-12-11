@@ -8,8 +8,9 @@ This is the link to access the dataset: https://www.kaggle.com/datasets/valentyn
 
 This is the link to GTSRB: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
-To run this project, you will need to 
+To run this project, you will need to run the .
 
+Below are some comparisons between the models 
 | Metric                        | Value   |
 |-------------------------------|---------|
 | mAP@0.5  Yolov5               | 79%     |
