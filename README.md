@@ -11,6 +11,9 @@ This is the link to GTSRB: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/
 To run this project, you will need to run the .ipynb on kaggle environment or modify it to run on other platforms. 
 We have also provided the dataset and the dataset.yaml containing the 4 classes. 
 
+[YOLOv5 Official Repo](https://github.com/ultralytics/yolov5)
+
+
 Below are some comparisons between the models 
 | Metric                        | Value   |
 |-------------------------------|---------|
